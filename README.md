@@ -1,5 +1,5 @@
 # Test
-Steps to installetion:
-1.change to the directori downloaded
+Steps to installation:
+1.Change to the directory recently downloaded
 2.npm install
 3.npm start
